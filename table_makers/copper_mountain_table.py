@@ -38,7 +38,5 @@ class Table(object):
         parking = parking_elm[0].text
         row.append(parking)
         # Get HTML Ref
-        import pdb
-        pdb.set_trace()
         # return full row
         return row

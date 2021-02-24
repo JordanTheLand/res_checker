@@ -9,8 +9,8 @@ from flask import Flask
 application = Flask(__name__)
 
 # Add a URL Rule for the homepage
-from flask_app.views import say_hello
-application.add_url_rule('/', 'index', lambda: say_hello())
+from flask_app.views import say_hello_test
+application.add_url_rule('/', 'index', lambda: say_hello_test())
 
 
 if __name__ == '__main__':
