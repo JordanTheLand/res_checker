@@ -5,8 +5,17 @@ DEV: Jordan Landgrebe
 """
 
 
-def say_hello():
-    return "<p>Hello Jordan</p>"
+def homepage():
+    return '''
+<html>
+    <head>
+        <title>Ikon Reservation Notification System</title>
+    </head>
+    <body>
+        <h1>Welcome to the Ikon Pass Reservation Notification System!</h1>
+        <p>Select on of the available mountains to configure notifications</p>
+    </body>
+</html>'''
 
 
 def say_hello_test():
