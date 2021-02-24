@@ -1,0 +1,37 @@
+appdirs==1.4.4
+beautifulsoup4==4.9.3
+brotlipy==0.7.0
+bs4==0.0.1
+certifi==2020.12.5
+cffi @ file:///opt/concourse/worker/volumes/live/a70943eb-ad97-40c6-78c9-98764c1bee07/volume/cffi_1613246936716/work
+chardet @ file:///opt/concourse/worker/volumes/live/7e1102c4-8702-40f2-63d6-f260ce5f85e4/volume/chardet_1607706831384/work
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+cryptography @ file:///opt/concourse/worker/volumes/live/110942ed-1ffc-487c-4457-4c0bcd3a8b49/volume/cryptography_1613401442925/work
+cssselect==1.1.0
+fake-useragent==0.1.11
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+lxml==4.6.2
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/fac44ebc-60de-4182-7f89-29bb8796c554/volume/markupsafe_1607027351541/work
+numpy @ file:///opt/concourse/worker/volumes/live/317d3633-3972-452c-494a-92900a1134d5/volume/numpy_and_numpy_base_1607448161283/work
+pandas==1.2.2
+parse==1.19.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyee==8.1.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyppeteer==0.2.5
+pyquery==1.4.3
+PySocks @ file:///opt/concourse/worker/volumes/live/112288ac-9cb0-4e73-768b-13baf4ca6419/volume/pysocks_1605305820043/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-html==0.10.0
+six @ file:///opt/concourse/worker/volumes/live/34b5b2b5-c9cb-44fb-4b8e-8a9a881bfa35/volume/six_1605205329242/work
+soupsieve==2.2
+tqdm==4.57.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1611694770489/work
+w3lib==1.22.0
+websockets==8.1
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
