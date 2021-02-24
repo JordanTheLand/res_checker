@@ -3,19 +3,11 @@
 DEV: Jordan Landgrebe
 2021-02-23
 """
+from flask import render_template
 
 
 def homepage():
-    return '''
-<html>
-    <head>
-        <title>Ikon Reservation Notification System</title>
-    </head>
-    <body>
-        <h1>Welcome to the Ikon Pass Reservation Notification System!</h1>
-        <p>Select on of the available mountains to configure notifications</p>
-    </body>
-</html>'''
+    return render_template('index.html')
 
 
 def say_hello_test():
